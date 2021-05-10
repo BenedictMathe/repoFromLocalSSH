@@ -1,3 +1,6 @@
 this is a new development file
 
+
 Text added from integration
+
+Both changes are fine :)
